@@ -69,9 +69,9 @@
 					<a href="https://placeholder.com"><img src="https://via.placeholder.com/70x70" alt="ElvesKiller22"></a>
 					<h3>ElvesKiller22</h3>
 					<p>2 captures - <a href="#">Profile</a></p>
-					<!-- Pour le bouton like en CSS BEGIN -->
+					
 					<p>Like</p>
-					<!-- Pour le bouton like END -->
+					
 				</li>
 				<li>
 					<a href="https://placeholder.com"><img src="https://via.placeholder.com/70x70" alt="Goblin45"></a>
@@ -79,7 +79,7 @@
 					<p>1 capture - <a href="#">Profile</a></p>
 					<!-- Pour le bouton like en CSS BEGIN -->
 					<p>Like</p>
-					<!-- Pour le bouton like END -->
+					
 				</li>
 			</ul>
 		</section>

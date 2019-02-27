@@ -1,0 +1,39 @@
+wilder@wilder-ThinkPad-T430s:~/quetes/git$ cd ..
+wilder@wilder-ThinkPad-T430s:~/quetes$ cd ..
+wilder@wilder-ThinkPad-T430s:~$ ls
+Bureau     examples.desktop  Modèles  Public  snap             usr
+Documents  Images            Musique  quetes  Téléchargements  Vidéos
+wilder@wilder-ThinkPad-T430s:~$ ls .
+Bureau     examples.desktop  Modèles  Public  snap             usr
+Documents  Images            Musique  quetes  Téléchargements  Vidéos
+wilder@wilder-ThinkPad-T430s:~$ ls -a
+.              Documents         .mozilla  .ssh
+..             examples.desktop  Musique   .sudo_as_admin_successful
+.atom          .gconf            .nano     Téléchargements
+.bash_history  .gitconfig        .npm      usr
+.bash_logout   .gitkraken        .pki      Vidéos
+.bashrc        .gnome            .profile  .vscode
+Bureau         .gnupg            Public    .Xauthority
+.cache         .ICEauthority     quetes    .xpaint
+.compiz        Images            .quokka   .xsession-errors
+.config        .java             .rpmdb    .xsession-errors.old
+.dbus          .local            .rvm
+.dmrc          Modèles           snap
+wilder@wilder-ThinkPad-T430s:~$ ls images
+ls: impossible d'accéder à 'images': Aucun fichier ou dossier de ce type
+wilder@wilder-ThinkPad-T430s:~$ ls Images
+'Capture d’écran de 2019-02-27 15-54-30.png'
+'Capture d’écran de 2019-02-27 15-55-28.png'
+'Capture d’écran de 2019-02-27 16-00-53.png'
+wilder@wilder-ThinkPad-T430s:~$ pwd
+/home/wilder
+wilder@wilder-ThinkPad-T430s:~$ cd Images
+wilder@wilder-ThinkPad-T430s:~/Images$ cd ..
+wilder@wilder-ThinkPad-T430s:~$ cd /opt
+wilder@wilder-ThinkPad-T430s:/opt$ cd ../home/wilder
+wilder@wilder-ThinkPad-T430s:~$ cd /usr/bin
+wilder@wilder-ThinkPad-T430s:/usr/bin$ cd
+wilder@wilder-ThinkPad-T430s:~$ cd ~
+wilder@wilder-ThinkPad-T430s:~$ cd ~/Musique
+wilder@wilder-ThinkPad-T430s:~/Musique$ ^C
+wilder@wilder-ThinkPad-T430s:~/Musique$ 
